@@ -1,0 +1,12 @@
+{
+    "item_1":"ID",
+    "item_2":"Title",
+    "item_3":"Severity/Priority",
+    "item_4":"Environment",
+    "item_5":"Description",
+    "item_6":"Steps to reproduce",
+    "item_7":"Expected result",
+    "item_8":"Actual result",
+    "item_9":"Attachments (screenshots, videos, text, logs)",
+    "item_10":"Comments"
+}
